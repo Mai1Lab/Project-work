@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <!-- Meta tags essenziali per HTML5 -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Landing page del progetto universitario - Pagina responsive con HTML5 e CSS3">
+    <meta name="author" content="Vincenzo Maione">
+    
+    <!-- Titolo della pagina -->
+    <title>Progetto Universitario - Landing Page</title>
+    
+    <!-- Collegamento al file CSS esterno -->
+    <link rel="stylesheet" href="style.css">
+    
+    
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="assets/logo-soluzione.png" alt="Logo">
+        </div>
+        <nav class="menu">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#informazioni">Informazioni</a></li>
+                <li><a href="#download">Download</a></li>
+                <li><a href="#valutazione">Valutazione</a></li> <!-- Nuova voce menu -->
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Contenuto principale -->
+    <main>
+        <!-- SEZIONE HERO -->
+        <section class="hero">
+            <h1>Benvenuto nel Mio Progetto</h1>
+            <h2>Calcolo del Fattore di Rischio - Privacy e Sicurezza Aziendale</h2>
+            <p>
+                Il documento fornisce una guida dettagliata sul calcolo del fattore di rischio nell'ambito della privacy e della sicurezza aziendale, offrendo un approccio metodologico chiaro e strutturato per valutare e mitigare i potenziali pericoli.
+            </p>
+            <p>
+                Basato sulle normative vigenti, in particolare il GDPR (Regolamento Generale sulla Protezione dei Dati), il documento illustra come implementare un approccio basato sul rischio per proteggere efficacemente i dati personali e gli asset aziendali.
+            </p>
+        </section>
+        
+        <!-- Sezione con i due box informativi -->
+        <div class="container" id="informazioni">
+            <!-- Primo box informativo -->
+            <section class="colonna">
+                <h2>Tecnologie Utilizzate</h2>
+                <p>Questo progetto è stato sviluppato utilizzando:</p>
+                <ul>
+                    <li><strong>HTML5:</strong> Struttura semantica</li>
+                    <li><strong>CSS3:</strong> Styling avanzato con layout moderni</li>
+					<li><strong>Flexbox:</strong> Allineamento e distribuzione degli elementi</li>
+                    <li><strong>Media Queries:</strong> Adattamento mobile</li>
+					<li><strong>Font di sistema:</strong> Arial/sans-serif (nessun font esterno)</li>
+                </ul>
+            </section>
+            <!-- Secondo box informativo -->
+            <section class="colonna">
+                <h2>Elementi di Design</h2>
+                <p>Composizione dell'interfaccia:</p>
+                <ul>
+                    <li><strong>Container principale:</strong> Due box informativi affiancati (CSS Grid)</li>
+                    <li><strong>Pulsante di download:</strong> Utiizzato per il file pdf (Flexbox centrato)
+					<li><strong>Layout fluido:</strong>Si adatta a tutte le risoluzioni</li>
+                    <li><strong>Mobile:</strong> Layout verticale</li>
+					<li><strong>Allineamenti:</strong> Grazie a Flexbox</li>
+                </ul>
+            </section>
+        </div>
+
+		<!-- Sezione download con nuovo div - stile colonna -->
+        <div class="container" id="download">
+            <section class="colonna download-container">
+                <h2 class="text-center">Download Documento</h2>
+                <p class="text-center">Scarica il documento completo in formato PDF:</p>
+                <div class="download-section">
+                    <a href="assets/pw_maione.pdf" download class="download-button">Scarica PDF</a>
+                </div>
+            </section>
+        </div>
+<p>
+        <!-- Sezione per il Google Form -->
+        <div class="form-container" id="valutazione">
+            <h2 class="form-title">Valuta il Progetto</h2>
+            <!-- Codice del mio Google Form -->
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSengf7jRyPSNvx-WFCk5jp44oX4Ybu6fzlHmqZl88gj63IZvg/viewform?embedded=true" 
+                    frameborder="0" 
+                    marginheight="0" 
+                    marginwidth="0">
+                Caricamento...
+            </iframe>
+        </div>
+
+        
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <p>© 2025 Il mio progetto. Realizzato con HTML5, CSS3 e un po' di creatività! 🚀 🍀</p>
+            <p>Contattami: <a href="mailto:info@esempio.com">info@esempio.com</a></p>
+        </div>
+    </footer>
+</body>
+</html>
