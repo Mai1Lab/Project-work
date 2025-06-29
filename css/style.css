@@ -219,7 +219,7 @@ footer a:hover {
     text-decoration: underline;
 }
 
-/* Media Queries */
+/* Media Queries  */
 @media (max-width: 768px) {
     header {
         flex-direction: column;
