@@ -1,4 +1,4 @@
-Analisi Normativa e Sviluppo di un’Interfaccia Web Integrata
+#Analisi Normativa e Sviluppo di un’Interfaccia Web Integrata.
 Questo progetto nasce nell’ambito di un project work universitario con l’obiettivo di approfondire la protezione dei dati aziendali, analizzando il quadro normativo europeo (dal Codice Privacy alla Direttiva 95/46/CE fino al GDPR) e applicando un modello di valutazione del rischio ispirato alle linee guida ENISA, in particolare nella sua versione semplificata per le PMI.
 
 L’interfaccia web realizzata permette di visualizzare e comprendere i principali concetti di riservatezza, integrità e disponibilità, offrendo strumenti per:
