@@ -36,3 +36,9 @@ Il progetto include una **pagina web interattiva** che consente:
 L’interfaccia è pensata per essere semplice, intuitiva e accessibile anche a utenti non esperti.
 
 ---
+
+## 📌 Note finali
+
+Questo progetto è in continua evoluzione. Ogni contributo, suggerimento o feedback è benvenuto!
+
+---
