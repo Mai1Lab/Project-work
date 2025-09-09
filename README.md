@@ -1,16 +1,11 @@
 #Analisi Normativa e Sviluppo di un’Interfaccia Web Integrata.
-Questo progetto nasce nell’ambito di un project work universitario con l’obiettivo di approfondire la protezione dei dati aziendali, analizzando il quadro normativo europeo (dal Codice Privacy alla Direttiva 95/46/CE fino al GDPR) e applicando un modello di valutazione del rischio ispirato alle linee guida ENISA, in particolare nella sua versione semplificata per le PMI.
+Benvenuto nel mio progetto
+Privacy e sicurezza aziendale:
+Sviluppo di un software per la sicurezza aziendale
 
-L’interfaccia web realizzata permette di visualizzare e comprendere i principali concetti di riservatezza, integrità e disponibilità, offrendo strumenti per:
+Il documento propone un approccio sul calcolo del fattore del rischio. Le normative e gli standard ISO selezionati vengono evidenziati per affrontare una valutazione oggettiva e consapevole dei rischi in ambito privacy e sicurezza.
 
-Simulare il calcolo del rischio sulla base di minacce, vulnerabilità, impatto e probabilità
-
-Esplorare il glossario dei termini tecnici
-
-Consultare grafici e tabelle che illustrano l’analisi delle minacce nei diversi settori
-
-Scaricare una copia PDF della valutazione
-
+Proteggere i dati non significa solo salvaguardare gli asset aziendali, ma equivale soprattutto ad una responsabilità fondata su principi morali e legali.
 🧰 Tecnologie Utilizzate
 HTML5 / CSS3
 
