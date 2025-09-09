@@ -1,25 +1,38 @@
-#Analisi Normativa e Sviluppo di un’Interfaccia Web Integrata.
-Benvenuto nel mio progetto
-Privacy e sicurezza aziendale:
-Sviluppo di un software per la sicurezza aziendale
+# 📦 Privacy e Sicurezza Aziendale
 
-Il documento propone un approccio sul calcolo del fattore del rischio. Le normative e gli standard ISO selezionati vengono evidenziati per affrontare una valutazione oggettiva e consapevole dei rischi in ambito privacy e sicurezza.
+## 🔐 Benvenuto nel mio progetto
 
-Proteggere i dati non significa solo salvaguardare gli asset aziendali, ma equivale soprattutto ad una responsabilità fondata su principi morali e legali.
-🧰 Tecnologie Utilizzate
-HTML5 / CSS3
+**Sviluppo di un software per la sicurezza aziendale**  
+Questo progetto nasce con l’obiettivo di promuovere una gestione consapevole dei rischi legati alla privacy e alla sicurezza delle informazioni in ambito aziendale.
 
+---
 
-📌 Obiettivi del Progetto
-Collegare teoria normativa e applicazioni pratiche sulla sicurezza informatica
+## 📄 Descrizione del documento
 
-Offrire un’interfaccia semplice per introdurre la valutazione del rischio a utenti non tecnici
+Il documento allegato propone un approccio metodologico per il **calcolo del fattore di rischio**, con riferimento a:
 
-Fornire uno strumento didattico adatto a corsi universitari o contesti aziendali
+- Terminologia e concetti chiave
+- Normative europee e nazionali (es. GDPR, D.Lgs. 196/2003)
+- Standard ISO selezionati (ISO/IEC 27001, 27005, 27701, ecc.)
 
+L’obiettivo è fornire una guida pratica per affrontare una **valutazione oggettiva e consapevole dei rischi** in ambito privacy e sicurezza.
 
+---
 
-📄 Licenza
-Questo progetto è rilasciato sotto licenza MIT ed è stato sviluppato a fini didattici nell’ambito del corso universitario.
+## 💡 Filosofia del progetto
 
+> Proteggere i dati non significa solo salvaguardare gli asset aziendali,  
+> ma equivale soprattutto a una responsabilità fondata su **principi morali e legali**.
 
+La sicurezza informatica non è solo una questione tecnica, ma anche etica e normativa. Questo progetto intende coniugare tutti questi aspetti in un’unica soluzione.
+
+## 🌐 Interfaccia Web
+
+Il progetto include una **pagina web interattiva** che consente:
+
+- Il download del documento
+- La simulazione di una valutazione del rischio da parte dell’utente
+
+L’interfaccia è pensata per essere semplice, intuitiva e accessibile anche a utenti non esperti.
+
+---
