@@ -3,7 +3,7 @@
 ##  Benvenuto nel mio progetto
 
 **Sviluppo di un software per la sicurezza aziendale**  
-
+Il documento allegato propone un approccio metodologico per 
 Il presente elaborato si propone come una guida pratica per la valutazione dei rischi in ambito privacy.
 ---
 
