@@ -3,8 +3,8 @@
 ##  Benvenuto nel mio progetto
 
 **Sviluppo di un software per la sicurezza aziendale**  
-Questo progetto nasce con l’obiettivo di promuovere una gestione consapevole dei rischi legati alla privacy e alla sicurezza delle informazioni in ambito aziendale.
 
+Il presente elaborato si propone come una guida pratica per la valutazione dei rischi in ambito privacy.
 ---
 
 ## 📄 Descrizione del documento
